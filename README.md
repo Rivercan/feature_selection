@@ -15,7 +15,7 @@
   + 10. ExitProcess
 
 ## 2. Useless feature ranking:
-  * Featurn ranking list Top10 useless feature:
+  * ### Featurn ranking list Top10 useless feature:
   + GetLastActivePopup
   + ImageList_Add
   + GlobalDeleteAtom
@@ -37,4 +37,4 @@
   + matplotlib.pyplot 畫圖
 
 ## 5. suggestion
-    無
+  無
